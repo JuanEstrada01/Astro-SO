@@ -3,13 +3,22 @@ setup: |
   import Layout from '../../layouts/BlogPost.astro'
   import Cool from '../../components/Author.astro'
 title: Hello world!
-publishDate: 30 abr 2022
+publishDate: 12 Sep 2021
 name: Juan Estrada
 value: 128
-description: Pagina del alumno
+description: Practicas 4 y 5
 ---
 
 <Cool name={frontmatter.name} href="https://twitter.com/n_moore" client:load />
 
-Practica 4 
-Juan Estrada
+Practica 4 y 5
+
+```javascript
+// Example JavaScript
+
+const x = 7;
+function returnSeven() {
+  return x;
+}
+
+```
