@@ -11,14 +11,4 @@ description: Practicas 4 y 5
 
 <Cool name={frontmatter.name} href="https://twitter.com/n_moore" client:load />
 
-Practica 4 y 5
-
-```javascript
-// Example JavaScript
-
-const x = 7;
-function returnSeven() {
-  return x;
-}
-
-```
+# Practica 4 y 5
